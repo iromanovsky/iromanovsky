@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[link to wiki](../wiki/About-Me)
+[link to wiki](../../wiki/About-Me)
 
-[link to page about me](../wiki/About-Me)
+[link to page about me](../../wiki/About-Me)
 
 
 <!--
