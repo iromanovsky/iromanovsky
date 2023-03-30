@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[link to wiki](../wiki/About-Me)
+
+[link to page about me](../wiki/About-Me)
+
+
 <!--
 **iromanovsky/iromanovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
