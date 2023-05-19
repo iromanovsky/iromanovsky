@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I help customers by designing and implementing solutions for Core Infrastructure on Azure Cloud. Check my LinkedIn to see my proven track record of international flagship projects [LinkedIn.irom.info]
+I help customers by designing and implementing solutions for Core Infrastructure on Azure Cloud. To see my proven track record of international flagship projects, check [LinkedIn.irom.info]
 
 [see more info about me](../../wiki/About-Me)
 
