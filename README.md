@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My job is to help customers on their cloud adoption journey by designing and implementing effective, reliable, scalable, and secure solutions for Core Infrastructure on Azure Cloud. With extensive experience as a lead consultant and technical architect, I have a proven track record of successfully delivering international flagship projects from pre-sales to customer handover [check my LinkedIn to learn more]
+I help customers by designing and implementing solutions for Core Infrastructure on Azure Cloud. Check my LinkedIn to see my proven track record of international flagship projects [LinkedIn.irom.info]
 
 [see more info about me](../../wiki/About-Me)
 
