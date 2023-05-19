@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My job is to help customers on their journey to adopt cloud infra solutions by translating business requirements into reliable, scalable, and secure solutions, in the stages from pre-selling to implementation on a worldwide enterprise scale. My current specialization is Core Infrastructure on Azure Cloud, and I have rich experience in implementing international flagship projects in this area, in the roles of lead consultant/systems architect.
+My job is to help customers on their cloud adoption journey by designing and implementing effective, reliable, scalable, and secure solutions. Specializing in Core Infrastructure on Azure Cloud, I have rich experience as a lead consultant and technical architect, successfully implementing international flagship projects from pre-sales to customer handover.
 
 [see more info about me](../../wiki/About-Me)
 
