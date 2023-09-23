@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-I help customers by designing and implementing solutions for Core Infrastructure on Azure Cloud. To see my proven track record of international flagship projects, check [LinkedIn.irom.info]
+I help customers by designing and implementing solutions for Core Infrastructure on Azure Cloud.
 
-[see more info about me](../../wiki/About-Me)
+To see my regalia and proven track record of international flagship projects, check my [LinkedIn profile].
 
-[link to wiki](../../wiki/)
+Visit my [personal blog] where I share my experience in the IT field.
 
+[LinkedIn profile]: http://LinkedIn.irom.info
+[personal blog]: https://irom.info
+[link to wiki]: ../../wiki/
+[about me wiki page]: ../../wiki/About-Me
 
 <!--
 **iromanovsky/iromanovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
